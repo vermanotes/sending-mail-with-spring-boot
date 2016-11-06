@@ -1,0 +1,7 @@
+{
+    "fromAddress": "*****@gmail.com",
+    "toAddresses": [
+        "*****@gmail.com"
+    ],
+    "message": "This message works!!!"
+}
